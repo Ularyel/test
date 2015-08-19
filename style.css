@@ -412,7 +412,6 @@ a:hover a:focus {
     color: #95a5a6;
     text-shadow: none;
     text-align: center;
-    filter: alpha(opacity=50);
     opacity: 1;
 }
 
@@ -469,8 +468,8 @@ a:hover a:focus {
 .call-to-action {
 	background: #f39c12 url(img/call-to-action.png) no-repeat;
 	background-size: cover;
-	padding: 60px 30px;http://stackskills.com/courses/build-flat-responsive-website-from-scratch/lectures/174757
-}
+	padding: 60px 30px;}
+
 
 .call-to-action h2{
 	color:#fff;
@@ -593,11 +592,11 @@ footer {
 	#carousel-testimonials blockquote {margin-top: 0;}
 	#carousel-testimonials blockquote p {padding: 61px 30px 40px 30px;}
 	
-	.contact-info .location, .contact-info .email {margin-bottom: 0px};
+	.contact-info .location, .contact-info .email {margin-bottom: 0px;}
 	.copyright {text-align: left;}
 	.social-icons {padding: 0; text-align: right;}
-}
 
+}
 @media(min-width: 1200px) {
 	.jumbotron{ padding:60px 0 180px 0;}
 	.navbar{margin-bottom: 0;}
