@@ -23,5 +23,5 @@ $('#circle').on('click', function(){
 		}, 2000, function(){
 			$(this).fadeOut(2000);
 		});
-	$('#circle').delay(18000).fadeIn(200);
+	$('#circle').delay(18000).fadeIn(2000);
 });
